@@ -1,4 +1,4 @@
-### <div align="center">I'm Andreas, going to be a full-time full-stack eveloper 👨‍💻
+### <div align="center">I'm Andreas, going to be a full-time full-stack Developer 👨‍💻
 I discovered my passion for programming when I was a freelance entrepreneur.🚀
 In April 2022 I started a Full Stack Web&App Developer Bootcamp to learn the basics. I can't wait to develop myself in this industry. </div>  
   
